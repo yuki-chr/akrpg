@@ -1,0 +1,51 @@
+# Mechanics
+- [x] Core System Mechanics
+	- [x] Roll Types
+	- [x] Resource Pools
+- [ ] Characters
+	- [x] Character Attributes
+	- [ ] Creation
+	- [ ] Progression
+	- [ ] Races
+	- [ ] Origins
+	- [ ] Classes
+	- [x] Skills
+- [ ] Interactions
+	- [x] Attribute Checks
+	- [ ] ...
+- [ ] Combat
+	- [x] Initiative
+	- [x] Actions in Combat
+	- [ ] Movement
+	- [ ] Morale
+		- [x] Gaining Morale
+		- [ ] General Uses
+		- [x] Morale Boost
+	- [ ] Skill Points
+	- [x] Attacks
+		- [x] MAP
+	- [x] Damage and Health
+		- [x] Health
+		- [x] Barrier
+		- [x] Shield
+		- [x] Physical and Arts Damage
+		- [x] True Damage
+		- [x] DOT
+		- [x] Elemental Damage
+	- [x] Blocking
+	- [x] Checks and Saves
+	- [x] Zones
+	- [x] Summons
+	- [ ] Conditions
+		- [ ] Positive Status Effects
+		- [ ] Negative Status Effects
+		- [ ] Elemental Injury
+# Database
+- [ ] Characters
+	- [ ] Races
+	- [ ] Origins
+	- [ ] Classes
+	- [ ] Generics
+		- [ ] Triggers
+		- [ ] Talents?
+		- [ ] Skills?

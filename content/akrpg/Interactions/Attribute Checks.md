@@ -1,0 +1,3 @@
+Attribute Checks are [[Arknights The Roleplaying Game#Checks|checks]] based on a [[Characters#Primary Attributes|Primary Attribute]]. Like any other check, They can be open or have a fixed Difficulty. In either case, you build the pool for an Attribute Check starting from your character's value of the check's attribute. Then, you can add the value of up to one of your character's [[Characters#Triggers|triggers]] that match the description of the action you are attempting and any situational modifier that applies. The final say on whether a trigger applies or not to an attribute check is up to the GM's discretion.
+# Saves
+A Save is a special type of Attribute Check to which only triggers that specifically mention saves can be applied.
