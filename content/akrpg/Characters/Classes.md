@@ -6,7 +6,9 @@
 	- Chain Caster? *(attacks bounce. maybe just weapon type?)*
 	- Shaper Caster? *(spawn summons on defeated enemies)*
 - **Defender** *(tank enemies)*
-	- Guardian Defender *(nothing special, but maybe gets access to some healing skills)*
+	- Protector Defender *(basic block 3 tank)*
+	- Arts Protector Defender *(lower DEF but gets some RES and has arts damage)*
+	- Guardian Defender *(lower stats but gets access to healing skills)*
 	- Fortress Defender *(long range aoe damage)*
 	- Sentry Defender *(medium range single target damage)*
 - **Guard** *(fight melee)*
