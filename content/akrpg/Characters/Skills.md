@@ -1,4 +1,4 @@
-Skills represent special types of actions and attacks that a character can use in combat. Each skill has a **Name**, an **Action Type**, a **Cost**, several **Tags**, and a **Description**.
+Skills represent special types of actions and attacks that a character can use in combat. Each skill has a **Name**, an **Action Type**, a **Usage**, several **Tags**, and a **Description**.
 # Name
 The name of the skill.
 # Action Type
@@ -6,8 +6,8 @@ Each skill uses a specific action type, which is one between the following:
 - **Action**: using the skill requires an [[Combat#Actions|action]].
 - **Quick**: using the skill counts as a [[Combat#Quick Actions|quick action]].
 - **Reaction**: the skill is used as a [[Combat#Reactions|reaction]]. Can additionally have the [forced] tag to make its use mandatory.
-# Cost
-The [[Combat#Skill Points|SP]] cost of using the skill. Can be 0.
+# Usage
+Different skills have different restrictions on how often they can be used: **at-will**, **encounter** or with an **SP cost**. You can use at-will skills as many times as you want during a battle, even multiple times within the same turn, though certain tags might further limit the skill usage. Encounter skills instead can only be used once per battle *(need to properly define short rests and stuff)*. Alternatively, certain skills have a [[Combat#Skill Points|skill points]] cost. This will be noted as `X SP` and means that the skill consumes X skill points upon use. It follows that the skill cannot be used unless a character's current SP is equal or greater than the cost.
 # Tags
 Tags further define the skill's behavior and properties. There are many tags that a skill can have, but a few more commonly used and are described here, organized by what they describe.
 ## Activation

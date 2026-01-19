@@ -34,13 +34,13 @@ Morale is a shared [[Arknights The Roleplaying Game#Reserves|reserve]] used by t
 
 Full Page: [[Morale]].
 # Skill Points
-
+Skill points are a resource used by characters to access more powerful skills in combat. Unlike Morale, each character has their own SP pool that cannot be shared. Characters begin combat with their SP at its maximum value, but SP cannot be recovered during battle outside of specific skill or talents. Even in that case, a character cannot have more SP than their maximum and any additional SP gained while at max is lost. *(need to properly define how max sp works but maybe just 3 flat, or 1/2/3 scaling with Elite level idk)*
 # Attacks
 Most skills that inflict damage (with the notable exception of save-based effects) require their user to first make an attack against the target. Attacks are resolved by a check, called an *Attack Roll*, with the target's current EVA score as difficulty. The pool for this check - referred to as **ATK** - is defined by each skill or trait that calls for an attack, and is affected by any ATK modifier applied to the creature rolling it.
 
 If the check is successful, the attack is considered successful as well, and its hit effects are applied. Otherwise, the attack missed or its target managed to deflect it, and its miss effects will be applied if present, otherwise nothing happens. There is no default behaviour for Perfects in an attack roll, and each attack can define them if needed.
 ## Multiple Attack Penalty
-Attacking an enemy is a task that requires concentration, and doing it multiple times in a short timespan is bound to have diminishing returns. This is represented by the Multiple Attack Penalty (**MAP**) mechanic. During your turn, for any attack roll you make you have `ATK-Xd` where X is your current MAP value. MAP starts at 0 at the start of each of your turns, and increases by one for each attack action you take during your turn. Reactions and other actions take outside your turn are unaffected by MAP. *MAP only increases after an attack action is completely resolved, and multiple attack rolls within the same action only increase it once.*
+Attacking an enemy is a task that requires concentration, and doing it multiple times in a short timespan is bound to have diminishing returns. This is represented by the Multiple Attack Penalty (**MAP**) mechanic. During your turn, for any attack roll you make you have `ATK -Xd` where X is your current MAP value. MAP starts at 0 at the start of each of your turns, and increases by one for each attack action you take during your turn. Reactions and other actions take outside your turn are unaffected by MAP. *MAP only increases after an attack action is completely resolved, and multiple attack rolls within the same action only increase it once.*
 # Damage and Health
 A character's health represents their ability to withstand damage and injuries before falling in battle.
 
